@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="school.cesar.impl.hospedagens.Hotel" project="Lista3" 
+    file="/Lista3/src/school/cesar/impl/hospedagens/Hotel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="319" x="288" y="162"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="school.cesar.impl.hospedagens.Hospedagem" project="Lista3" 
+    file="/Lista3/src/school/cesar/impl/hospedagens/Hospedagem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="547" width="303" x="1177" y="-425"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="3" language="java" name="school.cesar.interfs.Avaliavel" project="Lista3" 
+    file="/Lista3/src/school/cesar/interfs/Avaliavel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="167" x="2094" y="162"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="4" language="java" name="school.cesar.impl.carros.CarroExecutivo" project="Lista3" 
+    file="/Lista3/src/school/cesar/impl/carros/CarroExecutivo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="376" x="2301" y="162"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="school.cesar.impl.hospedagens.Pousada" project="Lista3" 
+    file="/Lista3/src/school/cesar/impl/hospedagens/Pousada.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="151" width="322" x="647" y="162"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="school.cesar.impl.carros.CarroComum" project="Lista3" 
+    file="/Lista3/src/school/cesar/impl/carros/CarroComum.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="369" x="2717" y="162"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="school.cesar.impl.carros.CarroDeLuxo" project="Lista3" 
+    file="/Lista3/src/school/cesar/impl/carros/CarroDeLuxo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="368" x="3126" y="162"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="school.cesar.impl.carros.CarroBasico" project="Lista3" 
+    file="/Lista3/src/school/cesar/impl/carros/CarroBasico.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="362" x="3534" y="162"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="school.cesar.interfs.Arrumavel" project="Lista3" 
+    file="/Lista3/src/school/cesar/interfs/Arrumavel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="215" x="1009" y="162"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="10" language="java" name="school.cesar.impl.hospedagens.AluguelDeApartamentosOuCasas" project="Lista3" 
+    file="/Lista3/src/school/cesar/impl/hospedagens/AluguelDeApartamentosOuCasas.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="205" width="454" x="1264" y="162"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="school.cesar.impl.carros.Carro" project="Lista3" 
+    file="/Lista3/src/school/cesar/impl/carros/Carro.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="547" width="331" x="2717" y="-425"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="school.cesar.impl.hospedagens.Albergue" project="Lista3" 
+    file="/Lista3/src/school/cesar/impl/hospedagens/Albergue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="151" width="296" x="1758" y="162"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="14">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="17">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="18">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <realization id="20">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <generalization id="21">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="22">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
